@@ -1,4 +1,15 @@
-**Introduction: Airbnb's Impact on NYC's Hospitality Landscape**
+
+**LINEAR STATISTICAL  MODELS**
+In our day-to-day lives, the growing data is playing a major role in shaping and
+understanding the world to forecast the future outcomes. The rapid increase of
+data across all fields has led to the pathway of data analysis. The importance
+of each data has led to uncover meaningful insights, patterns for the decisionmaking process.
+The fundamental approach in extracting information from the
+data in statistical modeling is analysis from linear regression models . The
+linear regression helps in understanding the relationship or association between
+variables in the field of data analysis.In this analysis we figure out the different
+factors that influence the dependent variable using linear models .Here,I have tried to create models for different scenarios with help of R.
+******Introduction: Airbnb's Impact on NYC's Hospitality Landscape**
 
 The Airbnb platform has revolutionized the way people discover accommodations, shaking up the traditional hospitality industry with millions of listings worldwide. This transformation is particularly evident in the dynamic city of New York City (NYC), renowned for its diverse neighborhoods and fluctuating demand for temporary lodgings. In response to the competitive nature of the NYC accommodation market, hosts grapple with the challenge of determining optimal prices. Factors such as location, property features, and local events contribute to the complexity of this pricing dilemma. To address this challenge, the development of a robust price prediction model becomes crucial for hosts, providing not only a strategic advantage but also simplifying the pricing process in this bustling metropolis.
 
